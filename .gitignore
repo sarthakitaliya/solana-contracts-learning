@@ -1,0 +1,10 @@
+# test ledger / runtime artifacts
+sol-counter-program (first native contract)/test-ledger/
+test-ledger/
+*.log
+rocksdb/
+# test ledger / runtime artifacts
+sol-counter-program (first native contract)/test-ledger/
+test-ledger/
+*.log
+rocksdb/
